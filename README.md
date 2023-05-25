@@ -1,3 +1,3 @@
 # Javascript-ClockandDay
 ![](/img/name.png)
-![](/img/Gif.gif)
+![](/img/Gİf.gif)
